@@ -7,7 +7,6 @@
 | [LinkedIn content](03-linkedin-content/) | Hooks, posts and formats that turn your expertise into pipeline. |
 | [LinkedIn ads](04-linkedin-ads/) | Audiences, creatives and bidding, synced with your outbound. |
 | [Analytics](05-analytics/) | Find out why a campaign isn't getting replies, and keep the copy that wins. |
-| [Automation](06-automation/) | Put the whole system on a schedule with n8n. |
 
 ## Install
 

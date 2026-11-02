@@ -19,14 +19,11 @@ This repo is that kit.
 
 | | |
 |---|---|
-| [**36 playbooks**](playbooks/) | Our favorite campaigns to run inside the terminal, from the signal to the booked meeting. |
-| [**GTM principles**](gtm-principles.md) | The rules behind every campaign we run. |
-| [**List building + signals**](skills/01-list-building-and-signals/) | Your ICP, the right people, who's hiring, raising or switching jobs. |
-| [**Copywriting**](skills/02-copywriting/) | Cold emails and follow-ups written from the signal. |
-| [**LinkedIn content**](skills/03-linkedin-content/) | Hooks, posts and formats that turn expertise into pipeline. |
-| [**LinkedIn ads**](skills/04-linkedin-ads/) | Audiences, creatives and bidding, synced with your outbound. |
-| [**Analytics**](skills/05-analytics/) | Why a campaign isn't getting replies, and the copy that wins. |
-| [**Automation**](skills/06-automation/) | The whole system on a schedule with n8n. |
+| [**1. Playbooks**](playbooks/) & [**GTM principles**](gtm-principles.md) | Our favorite campaigns to run inside the terminal, and the rules behind every campaign we run. |
+| [**2. List building + signals**](skills/01-list-building-and-signals/) | Define your ICP, find the people who will want to buy from you, and catch the ones hiring, raising or switching jobs. |
+| [**3. Copywriting**](skills/02-copywriting/) | Cold emails and follow-ups written from the signal, with subject lines that get opened. |
+| [**4. LinkedIn content**](skills/03-linkedin-content/) + [**LinkedIn ads**](skills/04-linkedin-ads/) | Hooks, posts and formats that turn your expertise into pipeline. Audiences, creatives and bidding, synced with your outbound. |
+| [**5. Analytics**](skills/05-analytics/) | Find out why a campaign isn't getting replies, and keep the copy that wins. |
 | [**Learn**](learn.md) | The best YouTube channels to learn agentic GTM & Claude Code. |
 
 ---
